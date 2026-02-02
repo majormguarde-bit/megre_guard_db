@@ -1,0 +1,8 @@
+flask
+sqlalchemy
+firebird-driver
+sqlalchemy-firebird
+flask-wtf
+bootstrap-flask
+wtforms
+email-validator
